@@ -15,10 +15,7 @@
 
 | Repository | Description |
 |---|---|
-| [Luveedu-Firewall](https://github.com/Luveedu/Luveedu-Firewall) | Lightweight tool to protect OpenLiteSpeed servers from DoS attacks — monitors logs, detects suspicious activity, and blocks malicious IPs via iptables. |
 | [Luveedu-Cloud-Ultra-Security-Firewall](https://github.com/Luveedu/Luveedu-Cloud-Ultra-Security-Firewall) | Ultimate cloud security & firewall solution for hardened server protection. |
-| [cpanel-security-check](https://github.com/Luveedu/cpanel-security-check) | Audit and verify security configurations on cPanel-based servers. |
-| [cpanel-security-fix](https://github.com/Luveedu/cpanel-security-fix) | Automated security fixes and hardening scripts for cPanel environments. |
 | [DoS-Max](https://github.com/Luveedu/DoS-Max) | A powerful yet simple DoS testing and simulation tool. |
 
 ---
@@ -34,8 +31,6 @@
 | [Public-Resolver-Change](https://github.com/Luveedu/Public-Resolver-Change) | Quickly switch and update public DNS resolvers on your server. |
 | [Add-our-SSH](https://github.com/Luveedu/Add-our-SSH) | Manage and add SSH keys to servers with ease. |
 | [BunnyCDN-Whitelist-Imunify360](https://github.com/Luveedu/BunnyCDN-Whitelist-Imunify360) | Easily whitelist all BunnyCDN IPs in Imunify360. |
-| [RCS-License-Renew](https://github.com/Luveedu/RCS-License-Renew) | Automate the renewal of RCS licenses. |
-| [Status-Monitor](https://github.com/Luveedu/Status-Monitor) | Monitor server and service status. |
 
 ---
 
